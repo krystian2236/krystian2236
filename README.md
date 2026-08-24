@@ -1,36 +1,75 @@
 # Krystian Krug
 
-GHOST Lab • AI • Cybersecurity • Automation
+## GHOST Lab
 
-## Projekty
+AI • Cybersecurity • Automation • Apple Ecosystem
 
-🚀 codex-automation
-Automatyzacje dla OpenAI Codex, MCP i narzędzi developerskich.
+Buduję narzędzia wokół OpenAI Codex, MCP, automatyzacji oraz bezpieczeństwa systemów.
 
-🔐 Security
-macOS hardening, YubiKey, SSH, FIDO2.
+---
 
-🍎 Apple Ecosystem
-macOS, iOS, Homebrew, terminal.
+## 🚀 Projekty
 
-🚗 BMW Diagnostics
-F20 coding, ISTA, E-Sys.
+### codex-automation
+Automatyzacje dla Codex, MCP i narzędzi developerskich.
 
-## Stack
+### GHOST Security
+Eksperymenty i narzędzia związane z:
+- macOS security
+- Linux
+- SSH
+- YubiKey
+- FIDO2
+- PIV authentication
+
+### Apple Ecosystem
+Praca z:
+- macOS
+- iOS
+- Homebrew
+- Terminal
+- Apple Silicon
+
+### BMW Diagnostics
+Narzędzia i badania:
+- BMW F20
+- E-Sys
+- ISTA
+- Coding
+
+---
+
+## 🛠️ Stack
 
 - Python
-- Bash/Zsh
+- Bash / Zsh
 - Git
+- GitHub Actions
 - MCP
 - OpenAI API
-- Docker
 - Linux
 - macOS
 
-## Security
+---
+
+## 🔐 Security Setup
 
 Hardware:
 - YubiKey 5C NFC
 - FIDO2
 - PIV SSH
 - GPG signing
+
+Priorytety:
+- hardware authentication
+- minimalizacja haseł
+- bezpieczna automatyzacja
+
+---
+
+## 📌 Aktualnie rozwijane
+
+- GHOST Automation Platform
+- Codex workflows
+- MCP integrations
+- Security tooling
