@@ -1,16 +1,36 @@
-## Hi there 👋
+# Krystian Krug
 
-<!--
-**krystian2236/krystian2236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GHOST Lab • AI • Cybersecurity • Automation
 
-Here are some ideas to get you started:
+## Projekty
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 codex-automation
+Automatyzacje dla OpenAI Codex, MCP i narzędzi developerskich.
+
+🔐 Security
+macOS hardening, YubiKey, SSH, FIDO2.
+
+🍎 Apple Ecosystem
+macOS, iOS, Homebrew, terminal.
+
+🚗 BMW Diagnostics
+F20 coding, ISTA, E-Sys.
+
+## Stack
+
+- Python
+- Bash/Zsh
+- Git
+- MCP
+- OpenAI API
+- Docker
+- Linux
+- macOS
+
+## Security
+
+Hardware:
+- YubiKey 5C NFC
+- FIDO2
+- PIV SSH
+- GPG signing
