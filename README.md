@@ -73,3 +73,17 @@ Priorytety:
 - Codex workflows
 - MCP integrations
 - Security tooling
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krystian2236&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krystian2236&layout=compact&theme=transparent)
+
+---
+
+## 🔥 Activity
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=krystian2236&theme=transparent)
