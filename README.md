@@ -74,16 +74,14 @@ Priorytety:
 - MCP integrations
 - Security tooling
 
----
-
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krystian2236&show_icons=true&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api?username=krystian2236&show_icons=true&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krystian2236&layout=compact&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krystian2236&layout=compact&hide_border=true" />
 
 ---
 
 ## 🔥 Activity
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=krystian2236&theme=transparent)
+<img src="https://streak-stats.demolab.com/?user=krystian2236&hide_border=true" />
