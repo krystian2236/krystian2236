@@ -1,87 +1,33 @@
-# Krystian Krug
+# Hi, I'm Krystian 👋
 
-## GHOST Lab
+I build secure AI automation and Apple-native tools.
 
-AI • Cybersecurity • Automation • Apple Ecosystem
+I like practical systems: clear interfaces, local-first workflows, hardware-backed authentication, and automation that remains understandable when something goes wrong.
 
-Buduję narzędzia wokół OpenAI Codex, MCP, automatyzacji oraz bezpieczeństwa systemów.
+## What I'm building
 
----
+- **NetScope** — an Apple-native network toolkit with SSH workflows for iPhone and iSH.
+- **Personal Agent** — a private assistant focused on useful, secure, everyday automation.
+- **Codex Automation** — repeatable workflows and tooling for AI-assisted development.
 
-## 🚀 Projekty
+## Current focus
 
-### codex-automation
-Automatyzacje dla Codex, MCP i narzędzi developerskich.
+- AI agents and developer automation
+- Swift, SwiftUI, and the Apple ecosystem
+- SSH, YubiKey, FIDO2, and secure access
+- Local-first tools for macOS and Linux
 
-### GHOST Security
-Eksperymenty i narzędzia związane z:
-- macOS security
-- Linux
-- SSH
-- YubiKey
-- FIDO2
-- PIV authentication
+## Toolbox
 
-### Apple Ecosystem
-Praca z:
-- macOS
-- iOS
-- Homebrew
-- Terminal
-- Apple Silicon
+`Swift` · `SwiftUI` · `TypeScript` · `Python` · `Shell` · `GitHub Actions` · `macOS` · `Linux`
 
-### BMW Diagnostics
-Narzędzia i badania:
-- BMW F20
-- E-Sys
-- ISTA
-- Coding
+## How I work
+
+- Security by default
+- Small, verifiable changes
+- Automation with a clear recovery path
+- Useful software over unnecessary complexity
 
 ---
 
-## 🛠️ Stack
-
-- Python
-- Bash / Zsh
-- Git
-- GitHub Actions
-- MCP
-- OpenAI API
-- Linux
-- macOS
-
----
-
-## 🔐 Security Setup
-
-Hardware:
-- YubiKey 5C NFC
-- FIDO2
-- PIV SSH
-- GPG signing
-
-Priorytety:
-- hardware authentication
-- minimalizacja haseł
-- bezpieczna automatyzacja
-
----
-
-## 📌 Aktualnie rozwijane
-
-- GHOST Automation Platform
-- Codex workflows
-- MCP integrations
-- Security tooling
-
-## 📊 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=krystian2236&show_icons=true&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krystian2236&layout=compact&hide_border=true" />
-
----
-
-## 🔥 Activity
-
-<img src="https://streak-stats.demolab.com/?user=krystian2236&hide_border=true" />
+Based in Poland · Working in the Europe/Warsaw time zone
