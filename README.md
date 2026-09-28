@@ -1,33 +1,61 @@
-# Hi, I'm Krystian 👋
+# Hi, I'm Krystian
 
-I build secure AI automation and Apple-native tools.
+**IT Support · Systems · Networks · Cybersecurity · Apple Development · AI Automation**
 
-I like practical systems: clear interfaces, local-first workflows, hardware-backed authentication, and automation that remains understandable when something goes wrong.
+I'm building practical IT and software projects while developing toward my first professional role in IT. I focus on troubleshooting, networking, system administration, defensive security, Apple platforms, and AI-assisted development.
 
-## What I'm building
+## Featured projects
 
-- **NetScope** — an Apple-native network toolkit with SSH workflows for iPhone and iSH.
-- **Personal Agent** — a private assistant focused on useful, secure, everyday automation.
-- **Codex Automation** — repeatable workflows and tooling for AI-assisted development.
+### [NetScope](https://github.com/krystian2236/NetScope)
+Apple-native network diagnostics and learning toolkit for iPhone.
 
-## Current focus
+`Swift` · `SwiftUI` · `Network.framework` · `Bonjour` · `iSH` · `Nmap`
 
-- AI agents and developer automation
-- Swift, SwiftUI, and the Apple ecosystem
-- SSH, YubiKey, FIDO2, and secure access
-- Local-first tools for macOS and Linux
+- local-network discovery and device/service inspection
+- TCP port and DNS diagnostics
+- Bonjour discovery
+- iSH and SSH-oriented workflows
+- educational network tooling
 
-## Toolbox
+### [CipherPath](https://github.com/krystian2236/CipherPath)
+Apple-native cybersecurity learning app built around safe, hands-on practice.
 
-`Swift` · `SwiftUI` · `TypeScript` · `Python` · `Shell` · `GitHub Actions` · `macOS` · `Linux`
+`Swift` · `SwiftUI` · `StoreKit 2` · `XCTest` · `Network.framework`
+
+- guided cybersecurity learning paths
+- offline simulated labs
+- progress, achievements and practice history
+- separate Developer and App Store build modes
+- defensive networking tools
+
+## What I work with
+
+**Systems & networking**  
+macOS · Linux · Windows · TCP/IP · DNS · SSH · Nmap · ADB
+
+**Development**  
+Swift · SwiftUI · Python · Shell · Git · GitHub · Xcode · Homebrew
+
+**Security**  
+Kali Linux · YubiKey · FIDO2 · network diagnostics · mobile/app testing
+
+**AI & automation**  
+Codex · Ollama · local LLMs · developer automation · AI-assisted workflows
 
 ## How I work
 
-- Security by default
-- Small, verifiable changes
-- Automation with a clear recovery path
-- Useful software over unnecessary complexity
+- read-only diagnostics before changes
+- small, verifiable iterations
+- security-conscious defaults
+- clear Git history and repeatable workflows
+- practical solutions over unnecessary complexity
 
----
+## Current focus
 
-Based in Poland · Working in the Europe/Warsaw time zone
+- IT support and troubleshooting
+- system and network administration
+- defensive cybersecurity
+- Apple platform development
+- local AI and automation
+
+Based in Poland.
